@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+<!--<groups>
+<run>
+<include name="reg"></include>
+</run>
+</groups>-->
+    <classes>
+      <class name="maven.selenium.FindElements"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
